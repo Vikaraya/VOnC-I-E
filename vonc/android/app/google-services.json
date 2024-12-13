@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "352031234862",
+    "project_id": "vonc-ie",
+    "storage_bucket": "vonc-ie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352031234862:android:589fe59918ee05eef5f8bf",
+        "android_client_info": {
+          "package_name": "com.example.vonc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352031234862-s94fmm1jlfta8d892pdipu5f4roa4vtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ostyBvx18wrVKOKEnL7onQd2NLti818"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352031234862-s94fmm1jlfta8d892pdipu5f4roa4vtk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352031234862-f8sa7iug1nrdot4h42s08b30ucrtmrsj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voncIo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
